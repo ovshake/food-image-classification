@@ -13,7 +13,7 @@ This project is about classifying different food images using a Convolutional Ne
 First, install the necessary libraries using pip:
 
 ```
-pip install tensorflow glob2 argparse
+pip install -r requirements.txt
 ```
 
 
